@@ -1,1 +1,1 @@
-https://github.com/Priyansh-Kotak/LEARN.git
+https://learngitbranching.js.org/
